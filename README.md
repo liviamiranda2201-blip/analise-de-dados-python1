@@ -11,4 +11,7 @@ Projeto de análise exploratória de dados desenvolvido em Python, utilizando pa
 ##  Tecnologias:
 - Python  
 - Pandas  
-- Matplotlib  
+- Matplotlib
+
+▶️ Visualizar no Colab
+https://colab.research.google.com/drive/1JWbvJuLqvOjjWbtRTsl2PrGqMMDlVcm0#scrollTo=NT0Ojotxh0TJ
