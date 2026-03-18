@@ -1,14 +1,14 @@
-## Análise de Dados com Python
+#  Análise de Dados com Python
 
-Projeto de análise exploratória de dados desenvolvido em Python, utilizando as bibliotecas pandas e matplotlib.
+Projeto de análise exploratória de dados desenvolvido em Python, utilizando pandas e matplotlib.
 
-## 🔍 O que foi feito:
+## O que foi feito:
 - Organização e manipulação de dados  
 - Análise estatística básica  
-- Agrupamento de dados por categoria  
+- Agrupamento por categoria  
 - Visualização gráfica  
 
-## 🛠 Tecnologias:
+##  Tecnologias:
 - Python  
 - Pandas  
 - Matplotlib  
